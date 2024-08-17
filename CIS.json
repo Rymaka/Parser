@@ -1,0 +1,14 @@
+{
+  "CIS_Balance": [
+    {
+      "start_date": "5/1/2024",
+      "end_date": "5/5/2024",
+      "balance": "Gacha_Base"
+    },
+    {
+      "start_date": "5/4/2024",
+      "end_date": "5/8/2024",
+      "balance": "Gacha_Rare"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "UK_Balance": [
+    {
+      "start_date": "5/8/2024",
+      "end_date": "5/9/2024",
+      "balance": "RouletteEpic"
+    },
+    {
+      "start_date": "5/9/2024",
+      "end_date": "5/11/2024",
+      "balance": "Gacha_Rare"
+    },
+    {
+      "start_date": "5/11/2024",
+      "end_date": "5/13/2024",
+      "balance": "Gacha_Base"
+    }
+  ]
+}
